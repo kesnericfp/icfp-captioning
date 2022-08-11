@@ -1,0 +1,63 @@
+* Instructions
+
+Real-time captioning for ICFP will be provided by human captioners. To
+ensure that your talk is captioned correctly it is important to
+provide a list of any uncommon words and technical terms that will be
+used in your talk ahead of time, as well as the pronunciation of these
+terms --- this will allow the captioners to prepare ahead of time and
+add the terms to their personal dictionary, ensuring that they can
+quickly and accurately caption your talk.
+
+** What words should we include?
+
+A good rule of thumb would be anything that the average person
+wouldn't know about and anything that spell-check wouldn't know by default:
+
+- Names of tools
+- Names of programming languages
+- Technical terminology
+
+The captioners are skilled professionals, but may not be aware of
+terms in our field, and may mishear them unless given context ahead of
+time.
+
+** How do we contribute?
+
+Each talk should have a directory, and within that directory there is a CSV file. The CSV file has the following format:
+
+|------------------+-----------------------------+------------+----------------------------------------------------------------------------------------------------------------------------------+-------+-----------------------------------------|
+| Term             | Pronunciation               | Commonness | Context / Example Usage                                                                                                          | Notes | Tags                                    |
+|------------------+-----------------------------+------------+----------------------------------------------------------------------------------------------------------------------------------+-------+-----------------------------------------|
+| itree            | eye-tree                    |            | shorthand for "interaction tree"                                                                                                 |       | semantics                               |
+| interaction tree | interaction tree            |            |                                                                                                                                  |       | semantics                               |
+| semantics        |                             |            |                                                                                                                                  |       | semantics, theory                       |
+| compiler         | com-pile-er                 |            | A program which translates code in one programming language into another, often performing optimizations to make the code faster |       | compilers                               |
+| frontend         | front end                   |            |                                                                                                                                  |       | compilers                               |
+| backend          | back end                    |            |                                                                                                                                  |       | compilers                               |
+| vellvm           | vel-um                      |            | Name of the project, it's a formal semantics of LLVM IR                                                                          |       | compilers, semantics, projects          |
+| IR               | I.R.                        |            | Shorthand for "intermediate representation", a programming language                                                              |       | compilers                               |
+| LLVM             | L.L.V.M.                    |            | A compiler infrastructure project that provides                                                                                  |       | compilers                               |
+| LLVM IR          | L.L.V.M. I.R.               |            |                                                                                                                                  |       | compilers                               |
+| clang            | clang, sometimes "see-lang" |            |                                                                                                                                  |       | compilers, projects                     |
+| Coq              | Like in peacock             |            | Coq is a proof assistant / programming language that is used to implement vellvm, "we have implemented and proved this in Coq"   |       | proof assistants, programming languages |
+| monad            | moe-nad                     |            | "because itrees are a monad..."                                                                                                  |       | theory                                  |
+| monadic          | moe-nad-ick                 |            | "we have a monadic interface..."                                                                                                 |       | theory                                  |
+| lambda           | lam-duh                     |            | Used to refer to anonymous functions "we have a lambda function here"                                                            |       | theory                                  |
+| lambda calculus  | lam-duh calculus            |            |                                                                                                                                  |       | theory                                  |
+|------------------+-----------------------------+------------+----------------------------------------------------------------------------------------------------------------------------------+-------+-----------------------------------------|
+
+The most important fields are the term and pronunciation columns, but
+providing some example uses and context can also be helpful for
+understanding how the term might be used, and you can leave any other
+notes you have about the term in the notes column.
+
+The tags column is also optional, but adding some tags about the usage
+of the term can help us organize a larger glossary to provide
+captioners for future conferences.
+
+** What else can I do?
+
+Uploading your slides / paper into your directory can also be
+helpful. This will give captioners access to your talk and they can
+have a backup copy to follow along to, and we may skim through the
+talks ahead of time for any extra keywords that might be worth adding.
