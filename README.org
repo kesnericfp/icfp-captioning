@@ -13,6 +13,7 @@ quickly and accurately caption your talk.
 A good rule of thumb would be anything that the average person
 wouldn't know about and anything that spell-check wouldn't know by default:
 
+- Names of author's and anybody who will be cited
 - Names of tools
 - Names of programming languages
 - Technical terminology
@@ -46,10 +47,13 @@ Each talk should have a directory, and within that directory there is a CSV file
 | lambda calculus  | lam-duh calculus            |            |                                                                                                                                  |       | theory                                  |
 |------------------+-----------------------------+------------+----------------------------------------------------------------------------------------------------------------------------------+-------+-----------------------------------------|
 
-The most important fields are the term and pronunciation columns, but
+The *most* important fields are the term and pronunciation columns, but
 providing some example uses and context can also be helpful for
 understanding how the term might be used, and you can leave any other
 notes you have about the term in the notes column.
+
+For pronunciation feel free to use IPA, or whatever works for you for
+conveying pronunciation.
 
 The tags column is also optional, but adding some tags about the usage
 of the term can help us organize a larger glossary to provide
