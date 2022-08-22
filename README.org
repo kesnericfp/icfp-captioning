@@ -47,16 +47,18 @@ Each talk should have a directory, and within that directory there is a CSV file
 | lambda calculus  | lam-duh calculus            |            |                                                                                                                                  |       | theory                                  |
 |------------------+-----------------------------+------------+----------------------------------------------------------------------------------------------------------------------------------+-------+-----------------------------------------|
 
-The *most* important fields are the term and pronunciation columns, but
-providing some example uses and context can also be helpful for
-understanding how the term might be used, and you can leave any other
-notes you have about the term in the notes column.
+The *most* important fields are the term and pronunciation columns, please fill these in!
+
+In addition, it may be helpful to provide some example uses and
+context can also be helpful for understanding how the term might be
+used, and you can leave any other notes you have about the term in the
+notes column.
 
 For pronunciation feel free to use IPA, or whatever works for you for
 conveying pronunciation.
 
 The tags column is also optional, but adding some tags about the usage
-of the term can help us organize a larger glossary to provide
+of the term can help us organize a larger glossary to provide to
 captioners for future conferences.
 
 ** What else can I do?
