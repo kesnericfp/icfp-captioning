@@ -1,3 +1,22 @@
+* TL;DR?
+
+Make sure you get accurate captions for your talk by following these instructions!
+
+1. Find your directory, if your directory is missing feel free to create one by copying another.
+2. Inside your directory is a ~caption_wordlist.csv~ file.
+3. Edit ~caption_wordlist.csv~ with terms and their pronunciation, as well as any extra details that might help the captioners.
+   - You can use libreoffice to edit this.
+   - Include words that the average person wouldn't know. Anything spell-check wouldn't understand by default is a good idea.
+     + Names of author's and anybody who will be cited
+     + Names of tools
+     + Names of programming languages
+     + Technical terminology
+4. Feel free to add your slides or paper, we can pass these off to the captioner as well
+5. Submit a pull request to this repository with your updated CSV file
+   - If you don't know how to submit a PR, feel free to make an issue on github
+
+More detailed notes below :).
+
 * Instructions
 
 Real-time captioning for ICFP will be provided by human captioners. To
@@ -24,7 +43,12 @@ time.
 
 ** How do we contribute?
 
-Each talk should have a directory, and within that directory there is a CSV file. The CSV file has the following format:
+Each talk should have a directory, and within that directory there is
+a CSV file. The *most* important fields in this CSV file are the term
+and pronunciation columns, please fill these in and submit a *pull
+request* to the repository.
+
+The CSV file has the following format:
 
 |------------------+-----------------------------+------------+----------------------------------------------------------------------------------------------------------------------------------+-------+-----------------------------------------|
 | Term             | Pronunciation               | Commonness | Context / Example Usage                                                                                                          | Notes | Tags                                    |
