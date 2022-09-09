@@ -1,24 +1,24 @@
 Term,Pronunciation,Context / Example Usage,Notes,Tags
-Simon Spies,,,,
-Lennard Gäher,,,,
-Joseph Tassarotti,,,,
-Ralf Jung,,,,
-Robbert Krebbers,,,,
-Lars Birkedal,,,,
-Derek Dreyer,,,,
-MPI-SWS,,,,
-Saarland University,,,,
-NYU,,,,
-Radboud University Nijmegen,,,,
-Aarhus University,,,,
-modality,,,,
-step-indexed,,,,
-logical relation,,,,
-separation logic,,,,
-VST,,,,
+Simon Spies,,,,Author
+Lennard Gäher,,,,Author
+Joseph Tassarotti,,,,Author
+Ralf Jung,,,,Author
+Robbert Krebbers,,,,Author
+Lars Birkedal,,,,Author
+Derek Dreyer,,,,Author
+MPI-SWS,,Max Planck Institute for Software Systems,,Institution
+Saarland University,,,,Institution
+NYU,,New York University,,Institution
+Radboud University Nijmegen,,,,Institution
+Aarhus University,,,,Institution
+modality,,,,Common-term
+step-indexed,,“step-indexed logical relations” “step-indexed logics” “step-indexed reasoning”,,Common-term
+logical relation,,,,Common-term
+separation logic,,,,Common-term
+VST,,Verified Software Toolchain,,tool theorem-proving
 iCAP,,,,
-Iris,,,,
-Rust,,,,
+Iris,,,,tool theorem-proving
+Rust,,,,Common-term programming-language
 later-modality,,,,
 quagmires,,,,
 Foundational Proof-Carrying Code project,,,,
@@ -26,20 +26,31 @@ Appel,,,,
 Ahmed ,,,,
 Scala,,,,
 Giarrusso ,,,,
-Rust,,,,
 session typed,,,,
 Hinrichsen,,,,
-O'Hearn,,,,
-Reynolds,,,,
-impredicative,,,,
-Coq,,,,
+O'Hearn,,,,Name
+Reynolds,,,,Name
+impredicative,,,,Common-term
+Coq,“Coq”,,,Common-term programming-language theorem-prover
 Iris Proof Mode,,,,
 FAA (Fetch-and-add) ,,,,
-ReLoC ,,,,
+ReLoC ,,Logical relations in iris,,
 ghost program,,,,
 CaReSL,,,,
 TaDA logic,,,,
-concurrent,,,,
+concurrent,,,,Common-term
 linearization,,,,
 AU (atomic update) ,,,,
 transfinite,,,,
+recursive,,,,Common-term
+subtyping,,,,Common-term
+First-class storable locks,,,,
+Higher-order ghost state,,,,
+Hoare,Like “horse”,,,Name
+Hoare logic,,,,Common-term
+Hoare tripple ,,,,Common-term
+refinements,,,,
+reorderability,,,,
+atomicity,,,,Common-term
+Haskell,,,,Common-term programming-language
+monad,Mow-nad,,,Common-term
