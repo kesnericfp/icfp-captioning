@@ -1,22 +1,22 @@
 Term,Pronunciation,Context / Example Usage,Notes,Tags
-Klaas Pruiksma,,,,
-Frank Pfenning,,,,
-Carnegie Mellon University,,,,
+Klaas Pruiksma,,,,Author
+Frank Pfenning,Frank “Fenning”,,,Author
+Carnegie Mellon University,,Often CMU,,Institution
 sequential,,,,
 Curry-Howard,,,,
 adjoint,,,,
-fork/join,,,,
-Blelloch,,,,
-Reid-Miller,,,,
-concurrency,,,,
-pthread,,,,
+fork/join,,“fork/join parallelism”,,
+Blelloch,,,,Name
+Reid-Miller,,,,Name
+concurrency,,,,Common-term
+pthread,,,,Common-term posix
 SILL ,,,,
 sequential ,,,,
 Seax,,,,
 SAX (semi-axiomatic sequent calculus) ,,,,
 Hilbert,,,,
 Gentzen,,,,
-sequent calculus ,,,,
+sequent calculus ,,,,Common-term
 axiomatic,,,,
 equirecursive,,,,
 contraction,,,,
@@ -24,3 +24,10 @@ adjunction,,,,
 continuation,,,,
 mapReduce,,,,
 succ,,,,
+Semi-axiomatic,,,,
+shared memory,,,,
+Session-typed concurrency,,,,
+sequential semantics,,,,
+Call-by-name (CbN),,,,
+modularity,,,,
+monadic,Mow-nad-ick,,,
