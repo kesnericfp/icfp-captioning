@@ -1,1 +1,33 @@
 Term,Pronunciation,Context / Example Usage,Notes,Tags
+A Simple and Efficient Implementation of Strong Call by Need by an Abstract Machine,,Title,,title
+Malgorzata Biernacka,,Author,,Author
+Witold Charatonik,,Author,,Author
+Tomasz Drab,,Author,,Author
+University of Wroclaw,,,,Institution
+call-by-need,,,,Common-term
+evaluator,,,,Common-term
+memothunks,,,,evaluation
+laziness,,,,Common-term evaluation
+Krivine machine,,,,
+beta-reduction,,,,Common-term evaluation
+denotational semantics,,,,Common-term
+Call-by-Value (CbV),,,,Common-term evaluation
+lambda-calculus,,,,Common-term
+call-by-name (CbN),,,,Common-term evaluation
+Call-by-need (CbNd),,,,Common-term evaluation
+beta-normalizable,,,,Common-term evaluation
+collapsible,,,,
+Coq,Pronounced like “cock”,,,Common-term tool programming-language theorem-prover
+Agda,,,,Common-term tool programming-language theorem-prover
+Haskell,,,,Common-term tool programming-language
+STG machine,,,,
+SCAM,,,,
+Strong CbNd,Strong call-by-need,,,
+RKNL,,,,
+KNL,,,,
+Useful MAM,,,,
+NbE (normalization by evaluation),,,,
+Racket,,,,Common-term tool programming-language
+beta-step,,A step of beta-reduction,,Common-term evaluation
+reduction semantics,,,,
+reachable configuration,,,,
