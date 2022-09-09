@@ -1,23 +1,24 @@
 Term,Pronunciation,Context / Example Usage,Notes,Tags
-Benjamin Quirring,,,,
-Olin Shivers,,,,
-John Reppy,,,,
-University of Maryland,,,,
-Northeastern University,,,,
-University of Chicago,,,,
-OCaml,,,,
+Benjamin Quirring,,,,Author
+Olin Shivers,,,,Author
+John Reppy,,,,Author
+University of Maryland,,,,Institution
+Northeastern University,,,,Institution
+University of Chicago,,,,Institution
+OCaml,,,,Common-term programming-language
 Scheme,,,,
 SML,,,,
 monomorphic,,,,
-MLton,,,,
-LIFO,,,,
-3CPS,,,,
-CPS,,,,
-IR (intermediate representation) ,,,,
-lambda-calculus,,,,
+MLton,I assume “milton”,,,
+LIFO,,“last in first out”,,
+3CPS,,Special variant of CPS,,
+CPS,,continuation passing style,,
+CPS-based,,,,
+IR (intermediate representation) ,,,,Common-term
+lambda-calculus,,,,Common-term
 ANF,,,,
 heap,,,,
-Appel,,,,
+Appel,,,,Name
 Jim,,,,
 Cardelli,,,,
 Shao,,,,
@@ -35,3 +36,11 @@ SML/NJ,,,,
 k-CFA framework,,,,
 Gilray,,,,
 Bigloo,,,,
+binding variables,,,,
+garbage-collected,,,,
+register,,,,
+collecting semantics,,,,
+tail call,,,,
+abstract state transition,,,,
+abstract state space,,,,
+Hindley-Milner,,,,
