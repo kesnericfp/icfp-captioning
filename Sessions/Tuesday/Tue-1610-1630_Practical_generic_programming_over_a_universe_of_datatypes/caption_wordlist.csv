@@ -1,7 +1,7 @@
 Term,Pronunciation,Context / Example Usage,Notes,Tags
-Lucas Escot,,,,
-Jesper Cockx,,,,
-TU Delft,,,,
+Lucas Escot,,,,Author
+Jesper Cockx,,,,Author
+TU Delft,,,,Institution
 Agda,,,,
 datatype-generic programming,,,,
 Bird ,,,,
@@ -30,4 +30,10 @@ Martin-Lôf,,,,
 Nordström,,,,
 universe-polymorhpism,,,,
 Cockx and Devriese,,,,
-
+metaprograms,,,,
+decidable,,,,
+induction,,,,
+curried,,,,
+uncurried,,,,
+polymorphism,,,,
+explicit positivity annotations,,,,
