@@ -1,31 +1,32 @@
 Term,Pronunciation,Context / Example Usage,Notes,Tags
-Nachiappan Valliappan,,,,
-Fabian Ruch,,,,
-Carlos Tomé Cortiñas,,,,
-Chalmers University of Technology,,,,
-lambda calculus,,,,
-lambda calculi,,,,
-modalities,,,,
+Nachiappan Valliappan,,,,Author
+Fabian Ruch,,,,Author
+Carlos Tomé Cortiñas,,,,Author
+Chalmers University of Technology,,,,Institute
+lambda calculus,,,,Common-term
+lambda calculi,,,,Common-term
+modalities,,,,Common-term
+modal,,,,
 Fitch-style,,,,
 delimiting operator,,,,
-NbE (normalization by evaluation) ,,,,
-𝜂-equivalence (eta-equivalence) ,,,,
-𝛽-equivalence (beta-equivalence) ,,,,
-K ,,,,
-T,,,,
+NbE (normalization by evaluation) ,,,,Common-term
+𝜂-equivalence (eta-equivalence) ,,,,Common-term equivalence
+𝛽-equivalence (beta-equivalence) ,,,,Common-term equivalence
+K ,,“K axiom”,,
+T,,“T axiom”,,
 necessity modality,,,,
-Kripke,,,,
-IT,,,,
+Kripke,,“Kripke semantics”,,Name
+IT,,A logic,,
 IK4,,,,
 IS4,,,,
-IK,,,,
-STLC (simply-typed lambda calculus) ,,,,
-lambda-abstraction,,,,
+IK,,A logic,,
+STLC (simply-typed lambda calculus) ,,,,Common-term
+lambda-abstraction,,,,Common-term
 Jay and Ghani ,,,,
 Plotkin,,,,
 Stirling,,,,
-CCC (Cartesian closed category) ,,,,
-adjunction,,,,
+CCC (Cartesian closed category) ,,,,Common-term
+adjunction,,,,Common-term
 reify,,,,
 reification,,,,
 reflect,,,,
@@ -35,6 +36,12 @@ Choudhury,,,,
 ML,,,,
 Cap,,,,
 Moggi,,,,
-comonad,,,,
-monad,,,,
+comonad,Koe-mow-nad,,,
+monad,Mow-nad,,,Common-term
 MTT (Multimodal Type Theory) ,,,,
+λIK,Probably lambda-eye-kay,A variant of the lambda-calculus (a simple programming language),,
+λIS4,,,,
+λIT,,,,
+deductive,,,,
+Information-flow control (IFC),,,,
+noninterference,,,,Common-term
