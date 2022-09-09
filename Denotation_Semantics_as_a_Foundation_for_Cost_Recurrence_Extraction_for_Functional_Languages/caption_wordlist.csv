@@ -1,0 +1,41 @@
+Term,Pronunciation,Context / Example Usage,Notes,Tags
+Denotational Semantics as a Foundation for Cost Recurrence Extraction for Functional Languages,,,,Title
+Norman Danner,,,,Author
+Daniel R. Licata,,,,Author
+Wesleyan University,,,,Institution
+asymptotic,,,,Common-term
+type-and-effect system,,,,
+refinement types,,,,
+recurrence,,,,
+call-by-value (cbv),,,,Common-term evaluation
+ML,,,,Programming-language
+ML-style,,Similar to ML programming language,,
+polymorphic,,,,Common-term
+polymorphism,,,,Common-term
+predicative ,,,,
+call-by-name (cbn),,,,Common-term evaluation
+inductive ,,,,Common-term
+functor,,,,Common-term
+fold,,,,Common-term
+suspension types,,,,
+δ-constructors,delta constructors,,,
+recurrence,,,,
+syntactic,,,,Common-term
+Pre-order,,,,Common-term
+Semantic,,,,Common-term
+amortized,,amortized analyses,,Common-term
+predicative ,,,,Common-term
+quantified,,,,Common-term
+quantifier,,,,Common-term
+theorem,,,,Common-term
+lemma,,,,Common-term
+recursion,,,,Common-term
+constructor,,,,Common-term
+destructor,,,,Common-term
+datatype,,,,Common-term
+typeability,,,,Common-term
+weakening,,,,Common-term
+monotonicity,,Mathematical property,,Common-term
+lattice,,,,Common-term
+Semi-lattice,,,,Common-term
+DML,,,,
