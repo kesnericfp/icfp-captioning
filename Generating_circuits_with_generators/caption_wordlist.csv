@@ -1,1 +1,25 @@
 Term,Pronunciation,Context / Example Usage,Notes,Tags
+Generating Circuits with Generators,,,,Title
+Marek Materzok,,,,Author
+University of Wroclaw,,,,Institution
+RTL (register transfer level),,,,hardware
+HLS (high level synthesis),,,,Common-term
+YieldFSM ,,,,
+Mealy machines,,,,
+Template Haskell ,,,,tool
+Clash functional hardware,,,,Programming-language
+FPGA (field-programmable gate arrays),,,,hardware
+HDL (hardware description language),,,,Programming-language
+Verilog,,,,Programming-language
+VHDL,,,,Programming-language
+CLU,,,,
+RISC-V core,Risc Five Core,,,
+Mealy machines,,,,
+Moore machines,,,,
+algorithmic,,,,Common-term
+desugaring,,,,Common-term
+reify,,,,Common-term
+reification,,,,Common-term
+automaton,,,,Common-term
+automata,,,,Common-term
+HD44780,,HD44780 Display Driver. Example used in paper,,
