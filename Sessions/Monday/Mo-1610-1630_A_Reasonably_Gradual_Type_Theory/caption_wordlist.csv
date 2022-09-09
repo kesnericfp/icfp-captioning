@@ -1,0 +1,26 @@
+Term,Pronunciation,Context / Example Usage,Notes,Tags
+A Reasonably Gradual Type Theory,,,,Title
+Kenji Maillard,,,,Author
+Meven Lennon-Bertrand,,,,Author
+Nicolas Tabareau,,,,Author
+Éric Tanter,,,,Author
+Gallinette Project-Team,,,,Lab
+Inria,,,,Institution
+PLEIAD Lab,,,,Lab
+University of Chile,,,,Institution
+CIC (Calculus of Inductive Constructions),,,,Common-term
+GCIC,,Gradually typed variant of CIC,,
+gradual types,,,,
+CastCIC,,,,
+GRIP ,,,,
+Agda,,,,Programming-language Common-term
+Coq,“cock”,,,Programming-language Common-term
+formalization,,,,Common-term
+Proof-irrelevant,,,,Common-term
+graduality,,,,
+Dynamic Gradual Guarantee (DGG),,,,
+MLTT,,,,
+propositional,,,,Common-term
+monotone,,,,Common-term
+monotonicity,,,,Common-term
+observational,,,,
