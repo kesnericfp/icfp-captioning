@@ -1,0 +1,63 @@
+Term,Pronunciation,Context / Example Usage,Notes,Tags
+Matthias Eichholz,,Author,,Author
+Eric Hayden Campbell,,Author,,Author
+Matthias Krebs,,Author,,Author
+Nate Foster,,Author,,Author
+Mira Mezini,,Author,,Author
+Technical University of Darmstadt,,Institution,,Institution
+Cornell University,,Institution,,Institution
+Dependently-Typed Data Plane Programming,,Title,,Title
+Deep Programmability: A New Lens on Networking ,,Title,,Title
+Dependent types,,,,types
+dependently-typed,,,,types
+𝚷4,Probably “pi 4”,Dependently typed version of P4 developed by authors,,Programming-language
+P4,,programming language for specifying behaviour of data-planes,,Programming-language
+networking,,,,term
+routing,,deciding which way packets of information are sent,,networking
+data-plane,,,,
+NIC,,,,
+functional programming,,,,
+ISP networks,,,,
+ASICs ,,Application specific integrated circutes – custom hardware to solve a problem,,
+OS (operating system),,,,
+Software-Defined Networking (SDN),,,,
+smartNICs,,,,
+Tofino,,,,
+NICs ,,,,
+Pensando,,,,
+Xilinx,,Company that makes FPGAs,,Hardware company
+XDP ,,,,
+DPDK,,,,
+VPP,,,,
+TE,,Traffic engineering,,
+NP-hard,,,,Common-term
+SafeP4,,A version of P4 with a simple type system,,Programming-language
+p4v,,,,
+Ethernet,,,,
+Ipv4,acronym,Ipv4 and Ipv6 are protocols,,protocol
+Ipv6,acronym,,,
+EtherType,,,,
+Liquid Haskell,,,,Tool programming-language
+SMT solver,,Type of tool for solving SMT problems,,Tool
+derivative,,,,
+Z3 SMT solver,,,,
+MTU (maximum transmission unit),,"Maximum transmission unit, the largest size of packet that can be transmitted",,Networking
+PISA switches,,,,
+FPGAs,,Field Programmable Gate Arrays,,Hardware
+heap,,,,
+OCaml,,,,
+Z3,,Tool to automatically prove theorems,,Tool
+TTL (time to live),,,,networking
+IHL (Internet Header Length),,,,networking
+Vera,,,,
+SAT,,Type of problem,,term
+FoxNet project,,,,
+monolithic,,,,
+headers,,,,
+packets,,,,networking
+model checking,,Automatic theorem proving,,tool technique
+calculus,,Used to describe a core simple programming language,,Common-term
+syntax,,,,Common-term
+modularity,,,,Common-term
+modular,,,,Common-term
+,,,,Common-term
