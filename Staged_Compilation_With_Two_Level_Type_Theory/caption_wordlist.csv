@@ -1,1 +1,28 @@
 Term,Pronunciation,Context / Example Usage,Notes,Tags
+Staged Compilation with Two-Level Type Theory,,,,Title
+András Kovács,,,,Author
+Eötvös Loránd University,,,,Institution
+metaprogramming,,,,Common-term
+2LTT (two-level type theory),,,,
+synthetic,,,,
+homotopy theory,,,,Common-term
+dependent types,,,,Common-term
+staging-by-evaluation,,,,
+NBE (normalization-by-evaluation),,,,
+Voevodsky,,,,Name
+staging,,,,
+presheaf,,,,Common-term
+intensional code analysis,,,,
+Agda,,Agda-style,,Programming-language Common-term
+induction,,,,Common-term
+Meta-level,,,,Common-term
+monomorphization,,,,
+morphism,,,,Common-term
+setoid,,,,Common-term
+fibration,,,,Common-term
+coherence,,,,
+Yoneda,,Yoneda embedding / yoneda lemma,,
+weakening,,,,
+MetaML,,,,
+MetaOCaml,,,,
+NLTT,,N-level type theory,,
