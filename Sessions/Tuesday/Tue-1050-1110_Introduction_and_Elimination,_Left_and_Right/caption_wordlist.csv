@@ -1,33 +1,39 @@
 Term,Pronunciation,Context / Example Usage,Notes,Tags
 Elimination,,,,
-Klaus Ostermann,,,,
-David Binder,,,,
-Ingo Skupin,,,,
-Tim Süberkrüb,,,,
-Paul Downen,,,,
-University of Tübingen,,,,
-University of Massachusetts Lowell,,,,
-ND (natural deduction) ,,,,
-calculus,,,,
+Klaus Ostermann,,,,Author
+David Binder,,,,Author
+Ingo Skupin,,,,Author
+Tim Süberkrüb,,,,Author
+Paul Downen,,,,Author
+University of Tübingen,,,,Institution
+University of Massachusetts Lowell,,,,Institution
+ND (natural deduction) ,,,,Common-term
+calculus,,,,Common-term
 bi-expressibility,,,,
-lambda-calculus,,,,
-Curry-Howard correspondence,,,,
-call/cc,,,,
-Reynolds,,,,
-continuation-passing style,,,,
+lambda-calculus,,,,Common-term
+Curry-Howard correspondence,,,,Common-term
+call/cc,,Call with current continuation,,Common-term
+Reynolds,,,,Name
+continuation-passing style,,,,Common-term evaluation
 filter,,,,
-SC (sequent calculus) ,,,,
-Wadler ,,,,
+SC (sequent calculus) ,,,,Common-term
+Wadler ,,,,Name
 match,,,,
 case expression,,,,
-Tranchini,,,,
+Tranchini,,,,Name
 polarity,,,,
 parsimonious filters,,,,
-desugaring,,,,
+desugaring,,,,Common-term
 copattern,,,,
-matching,,,,
-Abel,,,,
-Girard,,,,
+matching,,“pattern matching”,,Common-term
+Abel,,,,Name
+Girard,,,,Name
 elimination calculus,,,,
-Parigot,,,,
+Parigot,,,,Name
 duality,,,,
+consumer,,,,
+producer,,,,
+polymorphism,,,,Common-term
+syntax,,,,Common-term
+reduction,,,,Common-term
+refutation,,,,
