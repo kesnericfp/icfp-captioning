@@ -1,1 +1,25 @@
 Term,Pronunciation,Context / Example Usage,Notes,Tags
+Benjamin Accattoli,,Author,,Author
+Giulio Guerrieri,,Author,,Author
+Inria,,Institution,,Institution
+Ecole Polytechnique,,Institution,,Institution
+LIX,,Lab at Ecole Polytechnique,,Institution
+Edinburgh Research Centre,,Institution,,Institution
+Central Software Institute,,Institution,,Institution
+Huawei,,,,Company
+denotational semantics,,,,semantics
+Call-by-Value (CbV),,,,Common-term
+lambda-calculus,,,,Common-term
+call-by-name (CbN),,,,Common-term
+beta-normalizable,,,,Common-term
+collapsible,,,,
+intersection types,,,,Common-term
+head normalizable terms,,,,
+VSC (value substitution calculus),,Value substitution calculus,,
+Plotkin,,Name,,name
+CbV Taylor expansion,,Call by value taylor expansion,,
+Church-Rosser,,,,
+inscrutable terms,,,,
+Beta-divergent,,,,
+ES,,Explicit substitutions,,
+equational theory,,,,Common-term
