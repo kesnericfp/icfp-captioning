@@ -1,1 +1,29 @@
 Term,Pronunciation,Context / Example Usage,Notes,Tags
+Reference Counting With Frame Limited Reuse,,,,Title
+Anton Lorenzen,,,,Author
+Daan Leijen,,,,Author
+University of Bonn,,,,Institution
+Microsoft Research,,Sometimes MSR,,Institution
+Perceus algorithm,,,,
+reuse analysis,,,,
+heap,,,,
+drop-guided reuse algorithm,,,,
+linear resource calculus,,,,
+garbage-free ,,,,
+Koka,,,,Programming-language
+de Moura,,,,
+async/await,,,,
+Lean theorem prover,,,,
+TRMC (tail-recursion-modulo-cons),,,,
+C++ STL library,,,,
+FBIP (Functional But In-Place),,,,
+Okisaki style,,,,
+Red-black-tree,,Data structure,,
+λ^1,,“linear resource calculus”,,
+λ^1n,,“normalized linear resource calculus”,,
+derivative,,,,
+polymorphic,,,,Common-term
+Frame-limited,,,,Common-term
+normalized,,,,Common-term
+closures,,,,Common-term
+Reference-counted,,,,
