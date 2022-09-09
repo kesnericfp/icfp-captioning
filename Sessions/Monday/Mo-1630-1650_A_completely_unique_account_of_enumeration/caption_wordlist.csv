@@ -1,0 +1,24 @@
+Term,Pronunciation,Context / Example Usage,Notes,Tags
+A completely unique account of enumeration,,,,Title
+Cas van der Rest,,,,Author
+Wouter Swierstra,,,,Author
+Delft University of Technology,,,,Institution
+Technische Universiteit Delft,,,,Institution
+Utrecht University,,,,Institution
+Universiteit Utrecht,,,,Institution
+algebraic datatype,,,,Common-term
+datatype generic,,,,
+indexed families,,,,Common-term
+enumerator,,,,
+memoise,,,,
+QuickCheck,,,,testing tool
+memoisation,,,,Common-term
+Patricia trees,,,,
+Property-based testing,,,,
+recursive,,,,Common-term
+enumerator,,,,Common-term
+dependent pairs,,,,
+coproduct,,,,
+memoisation ,,,,Common-term
+tries,"Sometimes tries sometimes trees, I think",Prefix tree data structure,,
+memoising,,,,
