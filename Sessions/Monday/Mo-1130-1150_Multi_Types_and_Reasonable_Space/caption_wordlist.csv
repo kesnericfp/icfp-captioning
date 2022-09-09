@@ -1,0 +1,24 @@
+Term,Pronunciation,Context / Example Usage,Notes,Tags
+Multi Types and Reasonable Space,,,,Title
+Beniamino Accattoli,,,,Author
+Ugo Dal Lago,,,,Author
+Gabriele Vanoni,,,,Author
+University of Bologna,,,,Institution
+Inria,,,,Institution
+Ecole Polytechnique,,,,Institution
+Space KAM,,,,
+Krivine abstract machine,,,,
+lambda-caclulus,,,,Common-term
+intersection types,,,,
+Curry-Howard correspondence,,,,Common-term
+intersection types,,,,
+lambda-terms,,,,Common-term
+de Carvalho correspondence,,,,
+CbN (Call by name),,,,
+beta-steps,,,,Common-term evaluation
+beta redex,,,,Common-term evaluation
+isomorphic,,,,Common-term
+polymorphic,,,,Common-term
+polymorphism,,,,Common-term
+closure,,,,Common-term
+idempotent,,,,Common-term
