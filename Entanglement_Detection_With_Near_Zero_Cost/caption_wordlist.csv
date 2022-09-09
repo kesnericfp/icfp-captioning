@@ -1,1 +1,36 @@
 Term,Pronunciation,Context / Example Usage,Notes,Tags
+Entanglement Detection with Near-Zero Cost,,,,Title
+Sam Westrick,,,,Author
+Jatin Arora,,,,Author
+Umut A. Acar,,,,Author
+Carnegie Mellon University,,CMU,,Institution
+Parallel functional programming,,,,
+MPL (MaPLe) compiler for Parallel ML,,,,Programming-language
+race-freedom,,,,
+allocations,,,,Common-term
+dynamic semantics,,,,
+multiLisp,,,,
+Id,,,,
+NESL,,,,
+Haskell,,,,Common-term programming-language
+Peyton Jones,,,,Name
+ref,,,,
+array,,,,Common-term
+GC (garbage collector),,,,Common-term
+heap,,,,
+entanglement,,,,
+disentanglement,,,,
+runtime,,,,Common-term
+Semantics,,,,Common-term
+O(N),Big-oh-of-n,,,Common-term
+Series-parallel order maintenance (SP-order maintenance),,,,
+race detection,,,,
+race condition,,,,
+C++,,,,
+Non-determinism,,,,Common-term
+Breath-first-search (BFS),,,,Common-term
+recursive,,,,Common-term
+pointer,,,,Common-term
+memory management,,,,Common-term
+Mlton,Maybe milton,compiler for ML,,tool
+scalability,,,,
