@@ -1,19 +1,19 @@
 Term,Pronunciation,Context / Example Usage,Notes,Tags
-James Koppel,,,,
-Zheng Guo,,,,
-Edsko de Vries,,,,
-Armando Solar-Lezama,,,,
-Nadia Polikarpova,,,,
-Massachusetts Institute of Technology,,,,
-University of California,,,,
-Well-Typed LLP,,,,
+James Koppel,,,,Author
+Zheng Guo,,,,Author
+Edsko de Vries,,,,Author
+Armando Solar-Lezama,,,,Author
+Nadia Polikarpova,,,,Author
+Massachusetts Institute of Technology,,,,Institution
+University of California,,,,Institution
+Well-Typed LLP,,,,Institution
 FTA (finite tree automata) ,,,,
 e-graphs,,,,
-ECTAs (equality-constrained tree automata) ,,,,
+ECTAs (equality-constrained tree automata) ,Probably “eck-ta”,,,
 Haskell,,,,
 Hectare,,,,
 synthesizer,,,,
-Hoogle+,,,,
+Hoogle+,"Like google, but with an “h” plus",Search tool for Haskell types,,
 VSAs (version space algebras) ,,,,
 GlashFill,,,,
 API,,,,
@@ -22,5 +22,15 @@ Boolean,,,,
 qtype,,,,
 PEC (path equivalence class) ,,,,
 SAT,,,,
-polymorphic,,,,
+polymorphic,,,,Common-term
 SMT,,,,
+enumeration,,,,Common-term
+reduction,,,,Common-term
+dependent,,,,Common-term
+well-typed,,,,Common-term
+Type-driven program synthesis,,,,
+acyclic,,,,Common-term
+congruence,,,,Common-term
+closure,,,,Common-term
+semantics,,,,
+reduction criterion,,,,

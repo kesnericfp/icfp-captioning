@@ -1,15 +1,15 @@
 Term,Pronunciation,Context / Example Usage,Notes,Tags
-Hsiang-Shang 'Josh' Ko,,,,
-Liang-Ting Chen,,,,
-Tzu-Chi Lin,,,,
-Academia Sinica,,,,
-Agda,,,,
+Hsiang-Shang 'Josh' Ko,,,,Author
+Liang-Ting Chen,,,,Author
+Tzu-Chi Lin,,,,Author
+Academia Sinica,,,,Institution
+Agda,,,,Programming-language
 Datatype-generic programming,,,,
 Gibbons,,,,
 Stump,,,,
 Brady,,,,
 Kokke,,,,
-McBride,,,,
+McBride,,,,Name
 Allais,,,,
 Tarski,,,,
 Martin-Löf,,,,
@@ -23,3 +23,9 @@ Peano,,,,
 PDataD,,,,
 mu operator,,,,
 ornaments,,,,
+elaborator reflection,,,,
+instantiating,,,,
+instantiation,,,,
+metaprogram,,,,
+polymorphism,,,,
+algebraic ornamentation,,,,

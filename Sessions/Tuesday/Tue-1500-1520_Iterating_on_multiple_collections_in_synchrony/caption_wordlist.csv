@@ -1,9 +1,9 @@
 Term,Pronunciation,Context / Example Usage,Notes,Tags
-Stephano Perna,,,,
-Val Tannen,,,,
-Limsoon Wong,,,,
-University of Pennsylvania,,,,
-National University of Singapore,,,,
+Stephano Perna,,,,Author
+Val Tannen,,,,Author
+Limsoon Wong,,,,Author
+University of Pennsylvania,,,,Institution
+National University of Singapore,,,,Institution
 synchrony fold,,,,
 synchrony,,,,
 extensionally,,,,
@@ -15,15 +15,29 @@ Blasgen,,,,
 Eswaran,,,,
 Mishra,,,,
 Eich,,,,
-Wadler,,,,
-Peyton Jones,,,,
+Wadler,,,,Name
+Peyton Jones,,,,Name
 Gibbons,,,,
 non-equijoin,,,,
 Scala,,,,
-Turing complete,,,,
+Turing complete,,,,Common-term
 Gaifman graph,,,,
-homomorphism,,,,
+homomorphism,,,,Common-term
 GMQL,,,,
 BED ,,,,
 zip,,,,
 right-sided convexity,,,,
+linear ordering,,,,
+iterator,,,,Common-term
+iterations,,,,
+traversal,,,,Common-term
+extensional expressive power,,,,
+monotonicity,,,,Common-term
+monotonic,,,,Common-term
+antimonotonicity,,,,Common-term
+antimonotonic,,,,Common-term
+reflexivity,,,,Common-term
+convex,,,,Common-term
+referential transparency,,,,Common-term
+genometric,,related to genomes,,
+genomic,,,,
