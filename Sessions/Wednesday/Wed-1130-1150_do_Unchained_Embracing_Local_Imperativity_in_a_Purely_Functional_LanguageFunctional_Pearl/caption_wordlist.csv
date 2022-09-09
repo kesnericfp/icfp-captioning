@@ -1,29 +1,29 @@
 Term,Pronunciation,Context / Example Usage,Notes,Tags
-Sebastian Ullrich,,,,
-Leonardo de Moura,,,,
-Karlsruhe Institute of Technology,,,,
-Microsoft Research,,,,
+Sebastian Ullrich,,,,Author
+Leonardo de Moura,,,,Author
+Karlsruhe Institute of Technology,,,,Institution
+Microsoft Research,,Often “MSR”,,Institution
 imperativity,,,,
 reification,,,,
 Lean,,,,
 Haskell,,,,
-monad,,,,
+monad,Mow-nad,,,Common-term
 Wadler,,,,
 syntax sugar,,,,
 Marlow,,,,
 Rust,,,,
-let-bound,,,,
-SSA (static single assignment) ,,,,
+let-bound,,,,Common-term
+SSA (static single assignment) ,,,,Common-term
 Rosen,,,,
-macro system,,,,
-DSL (domain-specific language) ,,,,
-monadic,,,,
-desugar,,,,
-StateT,,,,
-monad transformer,,,,
+macro system,,,,Common-term
+DSL (domain-specific language) ,,,,Common-term
+monadic,,,,Common-term
+desugar,,,,Common-term
+StateT,,,,Common-term
+monad transformer,,,,Common-term
 ExceptT,,,,
 GHC,,,,
-CPS,,,,
+CPS,,Continuation passing style,,Common-term
 Calculus of Inductive Constructions,,,,
 LawfulMonad,,,,
 induction,,,,
@@ -31,8 +31,15 @@ tactic,,,,
 modifier,,,,
 Cli package,,,,
 ImperativeHaskell,,,,
-IO,,,,
-IORef,,,,
+IO,Eye-oh,,,
+IORef,Eye-oh ref,,,
 McBride,,,,
 Paterson,,,,
-
+mut,“mute”,mutable,,
+mutation,,,,
+applicative,,,,Common-term
+typeclass,,,,Common-term
+Foldable,,,,
+Traversible,,,,
+macro,,,,
+semantics,,,,

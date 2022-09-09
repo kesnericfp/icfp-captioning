@@ -1,26 +1,39 @@
 Term,Pronunciation,Context / Example Usage,Notes,Tags
-Paulette Koronkevich,,,,
-Ramon Rakow,,,
-Amal Ahmed,,,
-William J. Bowman,,,
-University of British Columbia,,,
-Northeastern University,,,
-ANF,,,
-Coq,,,
-compiler,,,
-ECC (extended calculus of constructions) ,,,
-CompCert ,,,
-CertiKOS,,,
-OCaml,,,
-IL (intermediate language) ,,,
-Ahmed,,,
-Bowman,,,
-Flanagan,,,
-Prop,,,
-Join-Point,,,
-System F,,,
-TAL,,,
-closure conversion,,,
-CPS,,,
-call-by-push-value,,,
-monadic,,,
+Paulette Koronkevich,,,,Author
+Ramon Rakow,,,,Author
+Amal Ahmed,,,,Author
+William J. Bowman,,,,Author
+University of British Columbia,,,,Institution
+Northeastern University,,,,Institution
+ANF,,,,
+Coq,“cock”,,,
+compiler,,,,
+ECC (extended calculus of constructions) ,,,,
+CompCert ,,A certified compiler,,
+CertiKOS,,“Certified Kit Operating System”,,
+OCaml,,,,
+IL (intermediate language) ,,,,Common-term
+Ahmed,,,,Name
+Bowman,,,,Name
+Flanagan,,,,
+Prop,,,,
+Join-Point,,,,
+System F,,,,
+TAL,,Typed assembly language,,Common-term
+closure conversion,,,,Common-term
+CPS,,continuation passing style,,Common-term
+call-by-push-value,,,,Common-term
+monadic,,,,Common-term
+dependent types,,,,
+subtyping,,,,
+Single-step reduction rules,,,,
+reduction relation,,,,
+Type-preservation,,,,
+recursive,,,,
+decidability,,,,
+Calculus of Constructions (CoC),,,,
+monadic,Mow-nad-ick,,,
+monad,Mow-nad,,,
+Call-by-push-value (CbPV),,,,
+Call-by-value (CbV),,,,
+Call-by-name (CbN),,,,

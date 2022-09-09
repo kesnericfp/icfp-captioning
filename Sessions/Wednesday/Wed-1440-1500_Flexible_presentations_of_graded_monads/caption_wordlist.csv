@@ -1,12 +1,12 @@
 Term,Pronunciation,Context / Example Usage,Notes,Tags
-Shin-ya Katsumata,,,,
-Dylan McDermott,,,,
-Tarmo Uustula,,,,
-Nicolas Wu,,,,
-National Institute of Informatics,,,,
-Reykjavik University,,,,
-Imperial College London,,,,
-monad,,,,
+Shin-ya Katsumata,,,,Author
+Dylan McDermott,,,,Author
+Tarmo Uustula,,,,Author
+Nicolas Wu,,,,Author
+National Institute of Informatics,,,,Institution
+Reykjavik University,,,,Institution
+Imperial College London,,,,Institution
+monad,Mow-nad,,,
 effect,,,,
 graded monads,,,,
 algebra,,,,
@@ -30,4 +30,5 @@ Plotkin,,,,
 Power,,,,
 Altenkrich,,,,
 locally graded category ,,,,
-
+categorical semantics,,,,
+nondeterminism,,,,

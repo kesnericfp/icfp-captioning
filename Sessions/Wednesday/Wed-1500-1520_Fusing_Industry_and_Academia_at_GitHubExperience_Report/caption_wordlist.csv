@@ -1,14 +1,14 @@
 Term,Pronunciation,Context / Example Usage,Notes,Tags
-Patrick Thomson,,,,
-Rob Rix,,,,
-Tom Schrijvers,,,,
-Nicolas Wu,,,,
-KU Leuven,,,,
-Imperial College London,,,,
-GitHub,,,,
+Patrick Thomson,,,,Author
+Rob Rix,,,,Author
+Tom Schrijvers,,,,Author
+Nicolas Wu,,,,Author
+KU Leuven,,,,Institution
+Imperial College London,,,,Institution
+GitHub,,,,Institution
 Semantic,,,,
-LR parsing,,,,
-FP,,,,
+LR parsing,,Left-to-right parsing,,
+FP,,functional programming,,
 bidirectional,,,,
 diffing,,,,
 diff,,,,
@@ -29,3 +29,4 @@ Haskell,,,,
 Rust,,,,
 Tree-Sitter,,,,
 Err functor,,,,
+recursion schemes,,,,

@@ -1,29 +1,34 @@
 Term,Pronunciation,Context / Example Usage,Notes,Tags
-Patrick Bahr,,,,
-Graham Hutton,,,,
-IT University of Copenhagen,,,,
-University of Nottingham,,,,
-divergence,,,,
-monad,,,,
-Leroy,,,,
-coinductive,,,,
+Patrick Bahr,,,,Author
+Graham Hutton,,,,Author
+IT University of Copenhagen,,,,Institution
+University of Nottingham,,,,Institution
+divergence,,,,Common-term
+monad,,,,Common-term
+Leroy,,,,Name
+coinductive,,,,Common-term
 Capretta,,,,
 Danielsson,,,,
-bisimilarity,,,,
-CbV (call-by-value) ,,,,
-untyped lambda calculus,,,,
+bisimilarity,,,,Common-term
+CbV (call-by-value) ,,,,Common-term
+untyped lambda calculus,,,,Common-term
 partiality monad,,,,
 Haskell,,,,
 meta-language,,,,
-Reynolds,,,,
+Reynolds,,,,Name
 code continuation,,,,
-lambda calculus,,,,
-integer,,,,
-reflection,,,,
-non-determinism,,,,
+lambda calculus,,,,Common-term
+integer,,,,Common-term
+reflection,,,,Common-term
+non-determinism,,,,Common-term
 ND,,,,
 Ret,,,,
 Maybe,,,,
 Nothing,,,,
 Pickard,,,,
 register-based machine,,,,
+inductive,,,,Common-term
+Non-total,,,,Common-term
+bisimilar,,,,
+step-indexed,,,,
+tail-recursive,,,,

@@ -1,14 +1,14 @@
 Term,Pronunciation,Context / Example Usage,Notes,Tags
-Arnaud Spiwack,,,,
-Csongor Kiss,,,,
-Jean-Philippe Bernardy,,,,
-Nicolas Wu,,,,
-Richard A. Eisenberg,,,,
-Tweag,,,,
-Imperial College London,,,,
-University of Gothenburg,,,,
-Jane Street,,,,
-linear types,,,,
+Arnaud Spiwack,,,,Author
+Csongor Kiss,,,,Author
+Jean-Philippe Bernardy,,,,Author
+Nicolas Wu,,,,Author
+Richard A. Eisenberg,,,,Author
+Tweag,,,,Institution
+Imperial College London,,,,Institution
+University of Gothenburg,,,,Institution
+Jane Street,,,,Institution
+linear types,,,,Common-term
 linear Haskell,,,,
 GHC ,,,,
 constraint solver,,,,
@@ -26,14 +26,22 @@ Sulzman,,,,
 Mezzo,,,,
 Pottier,,,,
 Protzenko,,,,
-ATS ,,,,
+ATS ,,“Advanced Type System”,,Programming-language
 Zhu,,,,
 Xi,,,,
 semiring,,,,
 read2AndDiscard,,,,
-API,,,,
+API,A.P.I.,Application Programming Interface,,Common-term
 array,,,,
 OutsideIn,,,,
 capability,,,,
-GADT,,,,
+GADT,Gad-it,Generalized algebraic data types,,Common-term
 Hereditary Harrop,,,,
+qualified type system,,,,
+linear constraints,,,,
+entailment,,,,
+conjunction,,,,
+constraint inference,,,,
+atomic,,,,
+desugaring,,,,
+inferring,,,,

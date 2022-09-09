@@ -1,42 +1,55 @@
 Term,Pronunciation,Context / Example Usage,Notes,Tags
-Irene Yoon,,,,
-Yannick Zakowski,,,,
-Steve Zdanewic,,,,
-Inria,,,,
-University of Pennsylvania,,,,
-monadic,,,,
-free monad,,,,
+Irene Yoon,,,,Author
+Yannick Zakowski,,,,Author
+Steve Zdanewic,,,,Author
+Inria,,,,Institution
+University of Pennsylvania,,,,Institution
+monadic,Mow-nad-ick,,,
+free monad,free mow-nad,,,
 boilerplate,,,,
-Coq,,,,
-ITree (interaction tree) ,,,,
-I/O,,,,
-Liang,,,,
-Hudak,,,,
-Moggi,,,,
-Steele,,,,
-Dijkstra monad ,,,,
+Coq,“cock”,,,Common-term theorem-prover
+ITree (interaction tree) ,“eye-tree”,,,
+I/O,“eye-oh”,,,
+Liang,,,,Name
+Hudak,,,,Name
+Moggi,,,,Name
+Steele,,,,Name
+Dijkstra monad ,/ˈdɑɪkstɹə/ DYKE-struh,,,
 Maillard,,,,
 Ahman,,,,
 FreeSpec,,,,
 Letan,,,,
-I/O-tree,,,,
-Hancock,,,,
-McBride
+I/O-tree,Eye-oh-tree,,,
+Hancock,,,,Name
+McBride,,,,Name
 resumption monad,,,,
 freer monad,,,,
 Capretta,,,,
 bisimilar,,,,
-Vellvm,,,,
-LLVM,,,,
-IR ,,,,
+Vellvm,vellum,,,
+LLVM,L.L.V.M.,,,
+IR ,I.R.,intermediate representation,,
 HELIX ,,,,
 SPIRAL,,,,
 Swierstra,,,,
 Trigger,,,,
 Subevent,,,,
 Interp,,,,
-generic
-eutt (equivalence-up-to-taus,,,,
-EQMR,,,,
-IMP,,,,
-ASM,,,,
+generic,,,,
+eutt (equivalence-up-to-taus,E.U.T.T.,,,
+EQMR,E.Q.M.R.,,,
+IMP,Like the little demon “imp”,,,
+ASM,A.S.M.,Assembly language,,
+metalanguage,,,,
+FreeSpec,,,,
+relational,,,,
+recursion,,,,
+recursive,,,,
+monadic interpreters,,,,
+injection,,,,
+decomposition,,,,
+instance inference,,,,
+typeclasses,,,,
+equational theory,,,,
+nondeterminism,,,,
+algebraic effects,,,,

@@ -1,10 +1,10 @@
 Term,Pronunciation,Context / Example Usage,Notes,Tags
-Frank Emrich,,,,
-Jan Stolarek,,,,
-James Cheney,,,,
-Sam Lindley,,,,
-University of Edinburgh,,,,
-Alan Turing Institute,,,,
+Frank Emrich,,,,Author
+Jan Stolarek,,,,Author
+James Cheney,,,,Author
+Sam Lindley,,,,Author
+University of Edinburgh,,,,Institution
+Alan Turing Institute,,,,Institution
 FreezeML,,,,
 Hindley-Milner type inference,,,,
 OutsideIn,,,,
@@ -12,11 +12,17 @@ HM,,,,
 Pottier/Rémy,,,,
 System F,,,,
 Algorithm W,,,,
-GADT,,,,
+GADT,Gad-it,Generalized algebraic data type,,
 PolyML,,,,
 ML,,,,
 GI,,,,
 n-ary,,,,
 monomorphic,,,,
-polymorhpic,,,,
+polymorphic,,,,
 QuickLook,,,,
+principality,,,,
+metatheory,,,,
+restriction context,,,,
+type substitution,,,,
+idempotence,,,,
+HM(X) Solver,,A tool that they compare against,,tool
