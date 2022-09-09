@@ -27,3 +27,4 @@ Frame-limited,,,,Common-term
 normalized,,,,Common-term
 closures,,,,Common-term
 Reference-counted,,,,
+Btree,Bee-tree,Data structure,,Common-term
