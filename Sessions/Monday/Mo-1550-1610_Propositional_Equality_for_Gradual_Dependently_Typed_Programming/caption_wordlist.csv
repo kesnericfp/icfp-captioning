@@ -1,0 +1,28 @@
+Term,Pronunciation,Context / Example Usage,Notes,Tags
+Propositional Equality for Gradual Dependently Typed Programming,,,,Title
+Joseph Eremondi,,,,Author
+Ronald Garcia,,,,Author
+Éric Tanter,,,,Author
+PLEIAD Lab,,,,Lab
+University of British Columbia,,Often UBC,,Institution
+University of Chile,,,,Institution
+gradual dependent types,,,,
+propositional equality,,,,Common-term
+Lennon-Bertrand ,,,,Name
+observational equivalence,,,,
+gradually typed language,,,,
+CIC (calculus of inductive constructions),,,,Common-term
+Siek ,,,,
+GEq (pronounced Geek),,,,
+CastCIC,,,,
+GDTL,,Gradual Dependently Typed Language,,
+GCIC,,Gradual version of the Calculus of Inductive Constructions,,
+quicksort,,Common sorting algorithm,,Common-term sorting algorithm
+canonicity,,,,
+inductive,,,,Common-term
+graduality,,,,
+Flist,,Fixed-length lists,,
+extensionality,,,,Common-term
+metatheory,,,,Common-term
+monotone,,,,Common-term
+monotonicity,,,,Common-term
