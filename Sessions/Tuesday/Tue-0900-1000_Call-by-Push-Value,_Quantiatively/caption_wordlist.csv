@@ -1,12 +1,12 @@
 Term,Pronunciation,Context / Example Usage,Notes,Tags
-Delia Kesner,,,,
-Université de Paris,,,,
-CNRS,,,,
-IRIF,,,,
-Institut Universitaire de France,,,,
-Call-by-Name (CBN) ,,,,
-Call-by-Value (CBV) ,,,,
-Call-by-Push-Value (CBPV) ,,,,
+Delia Kesner,,,,Author
+Université de Paris,,,,Institution
+CNRS,,,,Lab
+IRIF,,,,Lab
+Institut Universitaire de France,,,,Institution
+Call-by-Name (CBN) ,,,,Common-term evaluation
+Call-by-Value (CBV) ,,,,Common-term evaluation
+Call-by-Push-Value (CBPV) ,,,,Common-term evaluation
 lambda-bang calculus,,,,
 intersection types,,,,
 Girard,,,,
@@ -14,14 +14,21 @@ LL (linear logic) ,,,,
 duality,,,,
 P.B. Levy,,,,
 Carvalho,,,,
-thunk,,,,
-force,,,,
+thunk,,,,Common-term evaluation
+force,,,,Common-term evaluation
 Gardner's system ,,,,
 derivation,,,,
-idempotent,,,,
-subject reduction,,,,
-induction,,,,
+idempotent,,,,Common-term
+subject reduction,,,,Common-term
+induction,,,,Common-term
 derivation,,,,
-beta-reduction,,,,
+beta-reduction,,,,Common-term evaluation
 v-relevant,,,,
 f-relevant,,,,
+Meta-level,,,,Common-term
+exponential,,,,
+multiplicative,,,,
+n-normal-form,,,,
+v-normal-form,,,,
+reduction relation,,,,
+untyped,,,,
