@@ -1,26 +1,33 @@
 Term,Pronunciation,Context / Example Usage,Notes,Tags
-Norman Ramsey,,,,
-Tufts University,,,,
-compiler,,,,
-JavaScript,,,,
-WebAssembly,,,,
+Norman Ramsey,,,,Author
+Tufts University,,,,Institution
+Tweag,,,,Institution
+compiler,,,,Common-term
+JavaScript,,,,Common-term programming-language
+WebAssembly,,,,Common-term programming-language
 Peterson,,,,
 Kasami,,,,
 Tokura,,,,
-Emscripten,,,,
-Glasgow Haskell Compiler,,,,
-immutable,,,,
+Emscripten,,,,tool
+Glasgow Haskell Compiler,,,,tool compiler
+immutable,,,,Common-term
 Davidson ,,,,
 Fraser,,,,
-gcc,,,,
+gcc,,,,tool compiler
 Relooper ,,,,
 AST (abstract syntax tree) ,,,,
 JVM (Java Virtual Machine) ,,,,
-LLVM,,,,
+LLVM,,"Low-Level Virtual Machine, almost always referred to by acronym alone",,Common-term programming-language
 Haskell Core,,,,
 G-code,,,,
-Cmm,,,,
-Peyton Jones,,,,
+Cmm,,,,Programming-language
+Peyton Jones,,,,Name
 Ramsey ,,,,
 dominator tree,,,,
-GHC,,,,
+GHC,,,,tool compiler
+Control-flow analysis,,,,
+compiled,,,,
+reducibility,,,,
+Control-flow graphs (CFGs),,,,
+recursive,,,,
+polymorphism,,,,

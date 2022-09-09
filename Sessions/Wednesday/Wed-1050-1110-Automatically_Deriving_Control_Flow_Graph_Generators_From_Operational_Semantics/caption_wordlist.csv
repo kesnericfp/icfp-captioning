@@ -1,8 +1,8 @@
 Term,Pronunciation,Context / Example Usage,Notes,Tags
-James Koppel,,,,
-Jackson Kearl,,,,
-Massachusetts Institute of Technology,,,,
-Armando Solar-Lezama,,,,
+James Koppel,,,,Author
+Jackson Kearl,,,,Author
+Massachusetts Institute of Technology,,,,Institution
+Armando Solar-Lezama,,,,Author
 CFG (control-flow graph) ,,,,
 Mandate,,,,
 compiler,,,,
@@ -20,3 +20,13 @@ AM (abstract machine) ,,,,
 PAM (Phased Abstract Machine) ,,,,
 Sergey and Clarke,,,,
 Roşu and Şerbănută,,,,
+operational semantics,,,,
+model-checker,,,,
+abstract machine states,,,,
+transition graph,,,,
+transition system,,,,
+syntax-directed,,,,
+IMP,Like the little demon “imp”,A simple “imperative” programming language,,
+nondeterministic,,,,
+reduction,,,,
+invertible,,,,
