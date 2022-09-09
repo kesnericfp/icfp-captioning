@@ -1,1 +1,37 @@
 Term,Pronunciation,Context / Example Usage,Notes,Tags
+On Feller Continuity and Full Abstraction,,,,Title
+Gilles Barthe,,,,Author
+Raphaelle Crubille,,,,Author
+Ugo Dal Lago,,,,Author
+Francesco Gavazzo,,,,Author
+MPI Security and Privance,,Max Plank Institute,,Institution
+CNRS,,Centre national de la recherche scientifique ,,Institution
+University of Bologna,,,,Institution
+lambda-calculi,,,,Common-term
+Feller-continuity,,,,
+Markov processes,,,,Common-term
+LMPs ,,Labelled Markov Processes,,
+Bayesian programming,,,,
+Feller-continuous,,,,
+Monge-Kantorovich duality,,,,
+Levy,,,,
+Bernoulli,,,,
+Borel spaces,,,,
+Borel sigma-algebra,,,,
+Meas ,,category of “measurable spaces and measurable functions”,,
+Pol,,Subcategory of Meas whose objects are Borel spaces,,
+uncountable,,,,Common-term
+ Λ_p,I assume lambda p,A probabilistic lambda calculus created by authors,,
+ Λ_p^c,"Lambda p c, or lambda p continuous, maybe?",Continues version of  Λ_p created by authors,,
+bisimilarity,,Notion of equivalence between programs,,Common-term equivalence
+bisimulation,,,,Common-term equivalence
+bisimilar,,,,Common-term equivalence
+stochastic,Stow-kas-tick,,,Common-term statistics
+probability kernels,,,,
+Sub-probability kernels,,,,
+Omega-cppo-enriched,,,,
+topological,,,,Common-term
+closure,,,,Common-term
+abstraction,,,,Common-term
+modular,,,,Common-term
+measurability,,,,
