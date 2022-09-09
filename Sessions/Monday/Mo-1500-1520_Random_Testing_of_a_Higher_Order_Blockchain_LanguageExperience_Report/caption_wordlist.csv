@@ -1,0 +1,29 @@
+Term,Pronunciation,Context / Example Usage,Notes,Tags
+Random Testing of a Higher-Order Blockchain Language (Experience Report),,,,Title
+Tram Hoang,,,,Author
+Anton Trunov,,,,Author
+Leonidas Lampropoulos,,,,Author
+Ilya Sergey,,,,Author
+National University of Singapore,,,,Institution
+Zilliqa Research,,,,Institution
+University of Maryland,,Often UMD,,Institution
+Ilya Sergey,,,,
+smart contract language,,,,
+QuickChick,,,,testing tool
+OCaml,,,,Programming-language
+well-typed,,,,Common-term
+higher-order,,,,Common-term
+EVM ,,,,
+ML,,,,
+wasm,,,,
+Coq,Pronounced “cock”,,,
+ZILLIQA,,,,
+PLUTUS,,,,
+SCILLA,,,,
+polymorphic,,,,Common-term
+polymorphism,,,,Common-term
+Pseudo-random,,,,Common-term
+System F,,,,Common-term
+monad,Mow-nad,,,Common-term
+monadic,,,,Common-term
+Continuation-passing style (CPS),,,,Common-term
