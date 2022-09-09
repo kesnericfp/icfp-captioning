@@ -1,21 +1,21 @@
 Term,Pronunciation,Context / Example Usage,Notes,Tags
 Deadlock,,,,
-Jules Jacobs,,,,
-Stephanie Balzer,,,,
-Robbert Krebbers,,,,
-Radboud University,,,,
-Nijmegen,,,,
-Carnegie Mellon University,,,,
+Jules Jacobs,,,,Author
+Stephanie Balzer,,,,Author
+Robbert Krebbers,,,,Author
+Radboud University,,,,Institution
+Nijmegen,,“Radboud University Nijmegen” A city in the Netherlands,,City
+Carnegie Mellon University,,Often “CMU”,,Institution
 GV (Good Variation),,,,
 Curry-Howard ,,,,
 MPGV (Multiparty GV) ,,,,
-Coq,,,,
-Haskell,,,,
-Scala,,,,
-Rust,,,,
-Wadler,,,,
-Gay ,,,,
-Vasconscelos,,,,
+Coq,“cock”,,,
+Haskell,,,,Common-term programming-language
+Scala,,,,Common-term programming-language
+Rust,,,,Common-term programming-language
+Wadler,,,,Name
+Gay ,,,,Name
+Vasconscelos,,,,Name
 SILL family ,,,,
 Honda,,,,
 deadlock freedom,,,,
@@ -25,5 +25,12 @@ deadlock/leak freedom,,,,
 mechanization,,,,
 Iris,,,,
 Iris proof mode,,,,
-Coq code,,,,
+Coq code,“cock” code,,,
 DSL (domain-specific language) ,,,,
+recursive,,,,
+session types,,,,
+protocol,,,,
+delegation,,,,
+endpoint,,,,
+Small-step operational semantics,,,,
+runtime type system,,,,
